@@ -1,0 +1,51 @@
+[
+    {
+        "rating": "4.5",
+        "title": "THE WATER CURE",
+        "text": "Martin Hayatt",
+        "img": "img/pic1.png",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "3.8",
+        "title": "THE SKY'S PROMISE",
+        "text": "Emily Thompson",
+        "img": "img/pic2.png",
+        "audio": "Melodies.wav"
+    },
+    {
+        "rating": "4.2",
+        "title": "FORGOTTEN MEMORIES",
+        "text": "Jonathan Mitchell",
+        "img": "img/pic3.png",
+        "audio": "Echoes.mp3"
+    },
+    {
+        "rating": "4.7",
+        "title": "SHADOWS OF DESIRE",
+        "text": "Olivia Rodriguez",
+        "img": "img/pic4.png",
+        "audio": "Whispers.wav"
+    },
+    {
+        "rating": "3.9",
+        "title": "THE LOST LEGACY",
+        "text": "Sophia Davis",
+        "img": "img/pic5.png",
+        "audio": "Harmony.mp3"
+    },
+    {
+        "rating": "4.1",
+        "title": "BEYOND THE HORIZON",
+        "text": "Michael Anderson",
+        "img": "img/pic6.png",
+        "audio": "Symphony.wav"
+    },
+    {
+        "rating": "4.6",
+        "title": "THE FINAL CHORD",
+        "text": "Ava Johnson",
+        "img": "img/pic7.png",
+        "audio": "Serenade.mp3"
+    }
+]
